@@ -1,21 +1,18 @@
 body{
     text-align: center;
 }
-h1{
+.titulo-pagina{
     font-size: 42px;
     margin: 50px;
     padding: 10px;
     background-color: #bdbdbd56;
 }
-h2{
+.titulo-tabela{
     font-size: 32px;
     margin-top: 80px;
     margin-bottom: 15px;
 }
-th{
-    padding: 15px;
-}
-td{
+.dados-tabela{
     padding: 15px;
 }
 .cabecalho-moda{
@@ -24,7 +21,7 @@ td{
 .cabecalho-casa{
     background-color: #00C4B4;
 }
-.dados-tabela{
+.linha-tabela{
     background-color: #424250;
     color: #ffffff;
 }
