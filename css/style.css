@@ -1,32 +1,43 @@
 body{
     text-align: center;
 }
+
 .titulo-pagina{
     font-size: 42px;
     margin: 50px;
     padding: 10px;
     background-color: #bdbdbd56;
 }
+
 .titulo-tabela{
     font-size: 32px;
     margin-top: 80px;
     margin-bottom: 15px;
 }
-.dados-tabela{
-    padding: 15px;
-}
-.cabecalho-moda{
-    background-color: #BB86FC;
-}
-.cabecalho-casa{
-    background-color: #00C4B4;
-}
-.linha-tabela{
-    background-color: #424250;
-    color: #ffffff;
-}
+
 .tabela{
     padding: 15px;
     font-size: 32px;
     margin: auto;
+}
+
+.tabela .cabecalho.moda{
+    background-color: #BB86FC;
+}
+
+.tabela .cabecalho.casa{
+    background-color: #00C4B4;
+}
+
+.linha-tabela{
+    background-color: #424250;
+    color: #ffffff;
+}
+
+.tabela .cabecalho th{
+    padding: 15px;
+}
+
+.tabela .linha-tabela td{
+    padding: 15px;
 }
