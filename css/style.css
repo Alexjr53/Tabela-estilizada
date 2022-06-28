@@ -1,23 +1,26 @@
+html{
+    font-size: 62.5%
+}
 body{
     text-align: center;
 }
 
 .titulo-pagina{
-    font-size: 42px;
-    margin: 50px;
-    padding: 10px;
+    font-size: 4.2rem;
+    margin: 5rem;
+    padding: 1rem;
     background-color: #bdbdbd56;
 }
 
 .titulo-tabela{
-    font-size: 32px;
-    margin-top: 80px;
-    margin-bottom: 15px;
+    font-size: 3.2rem;
+    margin-top: 8rem;
+    margin-bottom: 1.5rem;
 }
 
 .tabela{
-    padding: 15px;
-    font-size: 32px;
+    padding: 1.5rem;
+    font-size: 3.2rem;
     margin: auto;
 }
 
@@ -35,9 +38,9 @@ body{
 }
 
 .tabela .cabecalho th{
-    padding: 15px;
+    padding: 2rem;
 }
 
 .tabela .linha-tabela td{
-    padding: 15px;
+    padding: 1.5rem;
 }
