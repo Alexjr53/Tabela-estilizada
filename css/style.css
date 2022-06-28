@@ -5,42 +5,42 @@ body{
     text-align: center;
 }
 
-.titulo-pagina{
+.title-page{
     font-size: 4.2rem;
     margin: 5rem;
     padding: 1rem;
     background-color: #bdbdbd56;
 }
 
-.titulo-tabela{
+.title-table{
     font-size: 3.2rem;
     margin-top: 8rem;
     margin-bottom: 1.5rem;
 }
 
-.tabela{
+.table{
     padding: 1.5rem;
     font-size: 3.2rem;
     margin: auto;
 }
 
-.tabela .cabecalho.moda{
+.table .header.fashion{
     background-color: #BB86FC;
 }
 
-.tabela .cabecalho.casa{
+.table .header.house{
     background-color: #00C4B4;
 }
 
-.linha-tabela{
+.table-row{
     background-color: #424250;
     color: #ffffff;
 }
 
-.tabela .cabecalho th{
+.table .header th{
     padding: 2rem;
 }
 
-.tabela .linha-tabela td{
+.table .table-row td{
     padding: 1.5rem;
 }

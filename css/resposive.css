@@ -1,43 +1,43 @@
 @media(max-width: 550px){
-    .titulo-pagina{
+    .title-page{
         font-size: 3.5rem;
     }
 
-    .titulo-tabela{
+    .title-page{
         font-size: 3rem;
     }
 
-    .tabela{
+    .table{
         font-size: 2.5rem;
     }
 }
 
 @media(max-width: 460px){
-    .titulo-pagina{
+    .title-page{
         font-size: 3rem;
     }
 
-    .titulo-tabela{
+    .title-table{
         font-size: 2.5rem;
         margin-top: 7rem;
     }
 
-    .tabela{
+    .table{
         font-size: 2rem;
     }
 }
 
 @media(max-width: 400px){
-    .titulo-pagina{
+    .title-page{
         font-size: 2rem;
     }
 
-    .titulo-tabela{
+    .title-table{
         font-size: 2rem;
         margin-top: 2rem;
     }
 
-    .tabela{
+    .table{
         font-size: 1.5rem;
     }
     
